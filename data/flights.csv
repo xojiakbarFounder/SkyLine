@@ -1,0 +1,12 @@
+flight_no,from,to,cost,departure,arrival,duration,status
+HY274,IST,TAS,250,09:30,15:00,4h 30m,Boarding
+TK760,IST,DXB,400,10:15,14:45,4h 30m,Scheduled
+FZ1941,DXB,TAS,300,18:20,22:10,2h 50m,Delayed
+KC912,IST,ALA,220,08:00,14:20,4h 20m,Departed
+HY762,ALA,TAS,120,17:10,18:45,1h 35m,Scheduled
+TK1985,IST,LHR,350,11:40,13:50,4h 10m,Scheduled
+BA113,LHR,JFK,600,16:25,19:40,8h 15m,Scheduled
+EK203,DXB,JFK,1000,02:50,08:55,14h 05m,Landed
+HY333,TAS,DXB,300,04:05,06:45,3h 40m,Departed
+HY778,BSZ,TAS,180,13:20,14:40,1h 20m,Cancelled
+KC109,ALA,BSZ,160,12:30,13:20,0h 50m,Scheduled
